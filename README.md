@@ -1,7 +1,7 @@
 # DevOps-Projects
 
-**Fashion Web Application Deployment   
-**In this project, customer has a Fashion Web Application for a local brand ready for production and needs to deploy production environment using AWS services as much as could. I create PorsgresSql instance on RDS, created ElasticCache as in memory DB, containerised front and backends with Docker, deployed front and backends images into ECS, used Terraform to deploy AWS resources, publish app to a public domain securely with SSL certificate, used Cloudflare for caching.   
+**Fashion Web Application Deployment**
+In this project, customer has a Fashion Web Application for a local brand ready for production and needs to deploy production environment using AWS services as much as could. I create PorsgresSql instance on RDS, created ElasticCache as in memory DB, containerised front and backends with Docker, deployed front and backends images into ECS, used Terraform to deploy AWS resources, publish app to a public domain securely with SSL certificate, used Cloudflare for caching.   
 **Skills**: AWS, ECS, Terraform, Docker, RDS, PostgresDB, ElasticCache, Route53, ACM. 
 
 # Kubernetes Cluster Deployment for Game Development project 
