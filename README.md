@@ -18,12 +18,12 @@ In this project, customer asked to automate deployment of TortoiseTTS and Stable
 **Skills**: Azure, Azure Files – Azure Blob Storage – Vnets -  AKS Azure Monitor - Makefile, Linux, Bash, Kafka, Dagster, Python 
 
 # Development Projects 
-# # Develop a Discord Bot for Decision Making 
+# Develop a Discord Bot for Decision Making 
 In this project, customer asked for a descision making system between discord channel team, where a user propose a suggestion about a topic, other members comment and vote for this suggestion, after a specified time, the final result displayed either to approve the decision or refuse it. I developed backend with fastAPI, stored data into MongoDB, develop discord bot and integrate with backend functions. 
 **Skills**: Python, FastAPI, Discord Bot, MongoDB, API testing,  
 
-Develop a staging backend for a gaming project 
-In this project, customer asked for a backend that do some tasks like managing assets, upload and download to MinIO, authenticate with Keycloack, sote asset info to DB. I developed backend with fastAPI, stored data into MongoDB. 
+# Develop a staging backend for a gaming project 
+In this project, customer asked for a backend APIs that do specific tasks like managing assets, upload and download to MinIO, authenticate with Keycloack, manage asset info to DB, extract data from image files, extract data from audio files. I used fastAPI, NumPy, Pandas.
 **Skills**: Python, FastAPI, MongoDB, API testing, Keycloack, MinIO 
 
 
